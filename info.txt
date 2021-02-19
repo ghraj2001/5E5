@@ -1,0 +1,5 @@
+name:raj
+age:19
+dob:30-12-2001
+clg:vrsec
+year&sec:2nd C
